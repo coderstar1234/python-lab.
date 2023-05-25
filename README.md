@@ -1,8 +1,9 @@
 <h1 align="center">Python Lab Project:-</h1>
 <h2 align="center">Introduction:-</h2>
-This repository contains the Python Lab Project developed during the second year of the course. The project aims to demonstrate practical implementation and understanding of various concepts learned in the lab sessions.
+- This repository contains the Python Lab Project developed during the second year of the course.
+-  The project aims to demonstrate practical implementation and understanding of various concepts learned in the lab sessions.
 
-Project Description
+<h2 align="center">Project Description:-</h2>
 The Python Lab Project is a comprehensive exercise that incorporates multiple Python programming concepts and techniques. It consists of the following components:
 
 Module 1: This module focuses on foundational Python programming concepts such as variables, data types, control flow, and functions.
