@@ -10,13 +10,21 @@
 - The Python Lab Project is a comprehensive exercise that incorporates multiple Python programming concepts and techniques.
 <p align="center"><b> It consists of the following components:</b></p>
 
-<h2>Module 1:</h2> This module focuses on foundational Python programming concepts such as variables, data types, control flow, and functions.
+<h2>Module 1:</h2>
 
-Module 2: In this module, object-oriented programming (OOP) principles are explored. It includes the creation of classes, inheritance, encapsulation, and polymorphism.
+- This module focuses on foundational Python programming concepts such as variables, data types, control flow, and functions.
 
-Module 3: The third module delves into file handling and exception handling techniques in Python. It emphasizes reading and writing data from/to files and handling various types of exceptions gracefully.
+<h2>Module 2:</h2>
 
-Module 4: The fourth module introduces the concept of modules and packages. It demonstrates the utilization of existing Python libraries and the creation of custom modules for code organization and reusability.
+- In this module, object-oriented programming (OOP) principles are explored. It includes the creation of classes, inheritance, encapsulation, and polymorphism.
+
+<h2>Module 3: </h2>
+
+- The third module delves into file handling and exception handling techniques in Python. It emphasizes reading and writing data from/to files and handling various types of exceptions gracefully.
+
+<h2>Module 4:</h2> 
+
+- The fourth module introduces the concept of modules and packages. It demonstrates the utilization of existing Python libraries and the creation of custom modules for code organization and reusability.
 
 Getting Started
 To get started with the Python Lab Project, follow these steps:
