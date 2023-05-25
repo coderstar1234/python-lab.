@@ -63,22 +63,22 @@ The project structure is organized as follows:
 
 css
 Copy code
-python-lab-project/
-  ├── module1/
-  │   ├── ...
+python-lab-project/<br>
+  ├── module1/<br>
+  │   ├── ...<br>
+  │   └── ...<br>
+  ├── module2/<br>
+  │   ├── ...<br>
   │   └── ...
-  ├── module2/
-  │   ├── ...
-  │   └── ...
-  ├── module3/
-  │   ├── ...
-  │   └── ...
-  ├── module4/
-  │   ├── ...
-  │   └── ...
-  ├── main.py
-  ├── README.md
-  └── requirements.txt
+  ├── module3/<br>
+  │   ├── ...<br>
+  │   └── ...<br>
+  ├── module4/<br>
+  │   ├── ...<br>
+  │   └── ...<br>
+  ├── main.py<br>
+  ├── README.md<br>
+  └── requirements.txt<br>
 Each module has its own dedicated directory, containing the relevant code files and resources. The main.py file serves as the entry point for the project, where different modules can be accessed and executed.
 
 Contributing
