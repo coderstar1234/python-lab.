@@ -1,4 +1,4 @@
-Python Lab Project
+<h1 align="center">Python Lab Project:-</h1>
 Introduction
 This repository contains the Python Lab Project developed during the second year of the course. The project aims to demonstrate practical implementation and understanding of various concepts learned in the lab sessions.
 
