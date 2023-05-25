@@ -25,8 +25,8 @@
 <h2>Module 4:</h2> 
 
 - The fourth module introduces the concept of modules and packages. It demonstrates the utilization of existing Python libraries and the creation of custom modules for code organization and reusability.
-
-Getting Started
+<hr>
+<h1 align="center">Getting Started</h1>
 To get started with the Python Lab Project, follow these steps:
 
 Clone the repository to your local machine using the following command:
