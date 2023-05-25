@@ -16,15 +16,18 @@
 
 <h2>Module 2:</h2>
 
-- In this module, object-oriented programming (OOP) principles are explored. It includes the creation of classes, inheritance, encapsulation, and polymorphism.
+- In this module, object-oriented programming (OOP) principles are explored. 
+- It includes the creation of classes, inheritance, encapsulation, and polymorphism.
 
 <h2>Module 3: </h2>
 
-- The third module delves into file handling and exception handling techniques in Python. It emphasizes reading and writing data from/to files and handling various types of exceptions gracefully.
+- The third module delves into file handling and exception handling techniques in Python.
+-  It emphasizes reading and writing data from/to files and handling various types of exceptions gracefully.
 
 <h2>Module 4:</h2> 
 
-- The fourth module introduces the concept of modules and packages. It demonstrates the utilization of existing Python libraries and the creation of custom modules for code organization and reusability.
+- The fourth module introduces the concept of modules and packages. 
+- It demonstrates the utilization of existing Python libraries and the creation of custom modules for code organization and reusability.
 <hr>
 <h1 align="center">Getting Started</h1>
 To get started with the Python Lab Project, follow these steps:
