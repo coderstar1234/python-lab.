@@ -92,7 +92,7 @@ Submit a pull request, explaining your changes in detail.
 License
 This project is licensed under the MIT License. Feel free to use and modify the code according to your needs.
 
-Contact
+<h1 align="center"><i>Contact:-</i></h1>
 For any questions or inquiries, please contact your-name.
 
 Happy coding!
