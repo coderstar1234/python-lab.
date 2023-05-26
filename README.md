@@ -54,9 +54,10 @@ Install the project dependencies:
 Copy code
 pip install -r requirements.txt
 Run the project:
-
+<font size="8">
 css
 Copy code
+  </font>
 python main.py
 Project Structure
 The project structure is organized as follows:
