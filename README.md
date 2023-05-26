@@ -80,7 +80,9 @@ python-lab-project/<br>
   ├── main.py<br>
   ├── README.md<br>
   └── requirements.txt<br>
-Each module has its own dedicated directory, containing the relevant code files and resources. The main.py file serves as the entry point for the project, where different modules can be accessed and executed.
+  
+- Each module has its own dedicated directory, containing the relevant code files and resources. 
+- The main.py file serves as the entry point for the project, where different modules can be accessed and executed.
 
 <h1 align="center"><i>Contributing:-</i></h1>
 
