@@ -89,7 +89,7 @@ Create a new branch for your feature or bug fix.
 Commit your changes with descriptive commit messages.
 Push your branch to your forked repository.
 Submit a pull request, explaining your changes in detail.
-License
+<h1 align="center"><i>License:-</i></h1>
 This project is licensed under the MIT License. Feel free to use and modify the code according to your needs.
 
 <h1 align="center"><i>Contact:-</i></h1>
