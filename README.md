@@ -54,10 +54,10 @@ Install the project dependencies:
 Copy code
 pip install -r requirements.txt
 Run the project:
-<font size="8">
+
 css
 Copy code
-  </font>
+ 
 python main.py
 Project Structure
 The project structure is organized as follows:
@@ -82,7 +82,7 @@ python-lab-project/<br>
   └── requirements.txt<br>
 Each module has its own dedicated directory, containing the relevant code files and resources. The main.py file serves as the entry point for the project, where different modules can be accessed and executed.
 
-Contributing
+<h1 align="center"><i>Contributing:-</i></h1>
 If you wish to contribute to this project, please follow these guidelines:
 
 Fork the repository on GitHub.
