@@ -34,8 +34,8 @@ To get started with the Python Lab Project, follow these steps:
 
 Clone the repository to your local machine using the following command:
 
-bash
-Copy code
+<h3 align=" center" >bash:📺 </h3>
+<h3 align=" center" >Copy code:</h3>
 git clone https://github.com/your-username/python-lab-project.git
 Navigate to the project directory:
 
