@@ -44,8 +44,8 @@ Navigate to the project directory:
 cd python-lab-project
 Set up a Python virtual environment (optional but recommended):
 
-bash
-Copy code
+<h3 align=" center" >bash:📺 </h3>
+<h3 align=" center" >Copy code:</h3>
 python -m venv env
 source env/bin/activate  # For Linux/Mac
 env\Scripts\activate  # For Windows
