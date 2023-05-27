@@ -30,7 +30,27 @@
 - It demonstrates the utilization of existing Python libraries and the creation of custom modules for code organization and reusability.
 <hr>
 <h1 align="center">Getting Started</h1>
+<h1 align="center"> Preview:-</h1>
 
+<h2 align="center">To view the resume, follow these steps:-</h2>
+<h1 align="center"> Installation:-</h1>
+
+<h3 align=" center" >To run this project locally:📺 </h3>
+
+<div align="center" >
+
+<img height="200" wedith="200" src="https://media1.giphy.com/media/dvsE3ncGE4g718CAqM/200.gif"></div>
+
+ <h2 align="center"> follow these steps:</h2>
+
+<h3 align="center"> Clone the repository from GitHub.:-</h3>
+
+<div align="center" >
+
+<img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
+
+<h3 align="center"> git clone:-</h3>
+<p align="center">https://github.com/yourusername/resume-website.git</p>
 - To get started with the Python Lab Project, follow these steps:
 
 Clone the repository to your local machine using the following command:
