@@ -65,10 +65,11 @@
 
 <h3 align=" center" >bash:📺 </h3>
 <h3 align=" center" >Copy code:</h3>
-python -m venv env
-source env/bin/activate  # For Linux/Mac
-env\Scripts\activate  # For Windows
-Install the project dependencies:
+
+- python -m venv env
+- source env/bin/activate  # For Linux/Mac
+- env\Scripts\activate  # For Windows
+- Install the project dependencies:
 <h3 align=" center" >bash:📺 </h3>
 <h3 align=" center" >Copy code:</h3>
 pip install -r requirements.txt
