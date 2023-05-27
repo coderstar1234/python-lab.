@@ -72,15 +72,17 @@
 - Install the project dependencies:
 <h3 align=" center" >bash:📺 </h3>
 <h3 align=" center" >Copy code:</h3>
-pip install -r requirements.txt
-Run the project:
+
+- pip install -r requirements.txt
+<h3 align=" center" >Run the project::</h3>
 
 
 <h3 align=" center" >css:📺 </h3>
 <h3 align=" center" >Copy code:</h3>
-python main.py
-Project Structure
-The project structure is organized as follows:
+
+- python main.py
+- Project Structure
+- The project structure is organized as follows:
 
 
 <h3 align=" center" >css:📺 </h3>
