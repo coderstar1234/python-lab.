@@ -55,15 +55,15 @@ Install the project dependencies:
 pip install -r requirements.txt
 Run the project:
 
-css
-<h3 align=" center" >bash:📺 </h3>
+
+<h3 align=" center" >css:📺 </h3>
 <h3 align=" center" >Copy code:</h3>
 python main.py
 Project Structure
 The project structure is organized as follows:
 
-css
-<h3 align=" center" >bash:📺 </h3>
+
+<h3 align=" center" >css:📺 </h3>
 <h3 align=" center" >Copy code:</h3>
 python-lab-project/<br>
   ├── module1/<br>
