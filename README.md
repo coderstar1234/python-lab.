@@ -36,8 +36,9 @@ Clone the repository to your local machine using the following command:
 
 <h3 align=" center" >bash:📺 </h3>
 <h3 align=" center" >Copy code:</h3>
-git clone https://github.com/your-username/python-lab-project.git
-Navigate to the project directory:
+<h1 align="center">git clone </h1>
+https://github.com/your-username/python-lab-project.git
+- Navigate to the project directory:
 
 <h3 align=" center" >bash:📺 </h3>
 <h3 align=" center" >Copy code:</h3>
