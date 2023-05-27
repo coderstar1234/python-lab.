@@ -49,16 +49,16 @@
 
 <img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
 
-<h3 align="center"> git clone:-</h3>
-<p align="center">https://github.com/yourusername/resume-website.git</p>
+<h3 align=" center" >bash:📺 </h3>
+<h3 align=" center" >Copy code:</h3>
+<h1 align="center">git clone </h1>
+<p align="center">https://github.com/your-username/python-lab-project.git</p>
 - To get started with the Python Lab Project, follow these steps:
 
 Clone the repository to your local machine using the following command:
 
-<h3 align=" center" >bash:📺 </h3>
-<h3 align=" center" >Copy code:</h3>
-<h1 align="center">git clone </h1>
-https://github.com/your-username/python-lab-project.git
+
+
 - Navigate to the project directory:
 
 <h3 align=" center" >bash:📺 </h3>
