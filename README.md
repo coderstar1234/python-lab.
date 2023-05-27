@@ -50,8 +50,8 @@ python -m venv env
 source env/bin/activate  # For Linux/Mac
 env\Scripts\activate  # For Windows
 Install the project dependencies:
-
-Copy code
+<h3 align=" center" >bash:📺 </h3>
+<h3 align=" center" >Copy code:</h3>
 pip install -r requirements.txt
 Run the project:
 
