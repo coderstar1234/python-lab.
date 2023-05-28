@@ -125,5 +125,5 @@ python-lab-project/<br>
 <h1 align="center"><i>Contact:-</i></h1>
 
 - For any questions or inquiries, please contact your-HImanshu vashistha
-
+<hr>
 <h1 align="center"><b>Happy coding!</b></h1>
