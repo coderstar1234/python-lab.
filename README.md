@@ -106,7 +106,7 @@ python-lab-project/<br>
   
 - Each module has its own dedicated directory, containing the relevant code files and resources. 
 - The main.py file serves as the entry point for the project, where different modules can be accessed and executed.
-
+<hr>
 <h1 align="center"><i>Contributing:-</i></h1>
 
 - If you wish to contribute to this project, 
