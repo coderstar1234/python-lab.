@@ -8,6 +8,7 @@ no<h1 align="center">Python Lab Project:-</h1>
 <h2 align="center">Project Description:-</h2>
 
 - The Python Lab Project is a comprehensive exercise that incorporates multiple Python programming concepts and techniques.
+<hr>
 <p align="center"><b> It consists of the following components:</b></p>
 
 <h2>Module 1:</h2>
