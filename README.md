@@ -1,4 +1,4 @@
-<h1 align="center">Python Lab Project:-</h1>
+no<h1 align="center">Python Lab Project:-</h1>
 <h2 align="center">Introduction:-</h2>
 
 - This repository contains the Python Lab Project developed during the second year of the course.
@@ -117,6 +117,7 @@ python-lab-project/<br>
 - Commit your changes with descriptive commit messages.
 - Push your branch to your forked repository.
 - Submit a pull request, explaining your changes in detail.
+<hr>
 <h1 align="center"><i>License:-</i></h1>
 
 - This project is licensed under the MIT License. 
