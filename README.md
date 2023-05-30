@@ -30,7 +30,7 @@ no<h1 align="center">Python Lab Project📝:-</h1>
 - The fourth module introduces the concept of modules and packages. 
 - It demonstrates the utilization of existing Python libraries and the creation of custom modules for code organization and reusability.
 <hr>
-<h1 align="center">Getting Started</h1>
+<h1 align="center">Getting Started:-</h1>
 <h1 align="center"> Preview:-</h1>
 
 <h2 align="center">To view the resume, follow these steps:-</h2>
