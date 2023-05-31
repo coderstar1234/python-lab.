@@ -119,7 +119,7 @@ python-lab-project/<br>
 - Push your branch to your forked repository.
 - Submit a pull request, explaining your changes in detail.
 <hr>
-<h1 align="center"><i>License:-</i></h1>
+<h1 align="center"><i>License📙:-</i></h1>
 
 - This project is licensed under the MIT License. 
 - Feel free to use and modify the code according to your needs.
