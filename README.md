@@ -79,7 +79,7 @@ no<h1 align="center">Python Lab Project📝:-</h1>
 
 
 <h3 align=" center" >css:📺 </h3>
-<h3 align=" center" >Copy code:</h3>
+<h3 align=" center" >Copy code📝:</h3>
 
 - python main.py
 - Project Structure
