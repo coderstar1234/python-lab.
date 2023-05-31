@@ -11,29 +11,29 @@
 <hr>
 <p align="center"><b> It consists of the following components:</b></p>
 
-<h2>Module 1:</h2>
+<h2>Module 1:⚔️</h2>
 
 - This module focuses on foundational Python programming concepts such as variables, data types, control flow, and functions.
 
-<h2>Module 2:</h2>
+<h2>Module 2:⚔️</h2>
 
 - In this module, object-oriented programming (OOP) principles are explored. 
 - It includes the creation of classes, inheritance, encapsulation, and polymorphism.
 
-<h2>Module 3: </h2>
+<h2>Module 3:⚔️ </h2>
 
 - The third module delves into file handling and exception handling techniques in Python.
 -  It emphasizes reading and writing data from/to files and handling various types of exceptions gracefully.
 
-<h2>Module 4:</h2> 
+<h2>Module 4:⚔️</h2> 
 
 - The fourth module introduces the concept of modules and packages. 
 - It demonstrates the utilization of existing Python libraries and the creation of custom modules for code organization and reusability.
 <hr>
-<h1 align="center">Getting Started:-</h1>
-<h1 align="center"> Preview:-</h1>
+<h1 align="center">Getting Started🔑:-</h1>
+<h1 align="center"> Preview🔏:-</h1>
 
-<h2 align="center">To view the resume, follow these steps:-</h2>
+<h2 align="center">To view the resume, follow these steps⏳⏳:-</h2>
 <h1 align="center"> Installation:-</h1>
 
 <h3 align=" center" >To run this project locally:📺 </h3>
