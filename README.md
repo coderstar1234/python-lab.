@@ -75,7 +75,7 @@
 <h3 align=" center" >Copy code📝:</h3>
 
 - pip install -r requirements.txt
-<h3 align=" center" >Run the project::</h3>
+<h3 align=" center" >Run the project:⌛:</h3>
 
 
 <h3 align=" center" >css:📺 </h3>
