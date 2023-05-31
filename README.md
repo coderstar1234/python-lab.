@@ -111,7 +111,7 @@ python-lab-project/<br>
 <h1 align="center"><i>Contributing👭:-</i></h1>
 
 - If you wish to contribute to this project, 
-<p align="center">please follow these guidelines:</p>
+<p align="center">please follow these guidelines💡💡💡💡:</p>
 
 - Fork the repository on GitHub.
 - Create a new branch for your feature or bug fix.
